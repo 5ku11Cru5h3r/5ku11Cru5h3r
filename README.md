@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: See my portfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Animation is possible in svg
+[![@5ku11Cru5h3r's Holopin board](https://holopin.io/api/user/board?user=5ku11Cru5h3r)](https://holopin.io/@5ku11Cru5h3r)
 ![](./profile-3d-contrib/profile-green-animate.svg)
