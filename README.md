@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything Creative
 - 📫 How to reach me: See my portfolio
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Animation is possible in svg
+- ⚡ Fun fact: The term "bug" was coined in 1947 when a moth got stuck in the Harvard Mark II computer, causing it to malfunction. Grace Hopper, a pioneer in computer science, taped the insect into her logbook and noted that she was "debugging" the system.
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=Chef-OutOftheBox&theme=dark)](https://github.com/5ku11Cru5h3r/Chef-OutOftheBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=ADDAPT&theme=dark)](https://github.com/5ku11Cru5h3r/ADDAPT)
