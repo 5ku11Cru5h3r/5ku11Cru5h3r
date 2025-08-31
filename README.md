@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=rune&theme=dark)](https://github.com/xasterKies/rune)
 
 <!--[![@5ku11Cru5h3r's Holopin board](https://holopin.io/api/user/board?user=5ku11Cru5h3r)](https://holopin.io/@5ku11Cru5h3r)-->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
