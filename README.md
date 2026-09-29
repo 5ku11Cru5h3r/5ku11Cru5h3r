@@ -4,14 +4,7 @@
 **5ku11Cru5h3r/5ku11Cru5h3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Vexa AI (tts) and making a ui for it
-- 🌱 I’m currently learning NextJS
-- 👯 I’m looking to collaborate on Any frontend issues and 
-- 🤔 I’m looking for help with Chef-Out-of-the-box
-- 💬 Ask me about Anything Creative
-- 📫 How to reach me: See my portfolio
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The term "bug" was coined in 1947 when a moth got stuck in the Harvard Mark II computer, causing it to malfunction. Grace Hopper, a pioneer in computer science, taped the insect into her logbook and noted that she was "debugging" the system.
+- Maths! Maths! Just Maths....Thats all I am doing now-a-days
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=Chef-OutOftheBox&theme=dark)](https://github.com/5ku11Cru5h3r/Chef-OutOftheBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=ADDAPT&theme=dark)](https://github.com/5ku11Cru5h3r/ADDAPT)
