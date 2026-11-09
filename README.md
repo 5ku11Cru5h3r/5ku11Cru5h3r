@@ -6,6 +6,3 @@ Here are some ideas to get you started:
 -->
 - Maths! Maths! Just Maths....Thats all I am doing now-a-days
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=Chef-OutOftheBox&theme=dark)](https://github.com/5ku11Cru5h3r/Chef-OutOftheBox)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=ADDAPT&theme=dark)](https://github.com/5ku11Cru5h3r/ADDAPT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5ku11Cru5h3r&repo=rune&theme=dark)](https://github.com/xasterKies/rune)
